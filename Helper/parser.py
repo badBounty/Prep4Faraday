@@ -11,7 +11,8 @@ class FaradayHelper():
 	def processAcu(self, df):
 
 		filtered_df = df.loc[:,['Name','ModuleName','Details','Affects','Severity','Type','Impact','Description','Recommendation','CWEList/CWE/__cdata','CVSS/Score']]
-
+		filtered_df = filtered_df[['Name','ModuleName','Details','Affects','Severity','Type','Impact','Description','Recommendation','CWEList/CWE/__cdata','CVSS/Score']]
+		filtered_df.columns = ['Name','ModuleName','Details','Affects','Severity','Type','Impact','Description','Recommendation','CWEList/CWE/__cdata','CVSS/Score']
 		return filtered_df
 
 	def processNessus(self, df):
