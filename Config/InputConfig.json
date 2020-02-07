@@ -1,0 +1,18 @@
+[
+    {
+        "Filename": "acu_test2_1.csv",
+        "Service": "Acunetix"
+    },
+    {
+    	"Filename": "acu_test2_2.csv",
+        "Service": "Acunetix"
+    },
+    {
+    	"Filename": "nessus_parser2.csv",
+        "Service": "Nessus"
+    },
+    {
+    	"Filename": "nmap_parser2.csv",
+        "Service": "Nmap"
+    }
+]

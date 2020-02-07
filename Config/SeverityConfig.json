@@ -1,0 +1,252 @@
+[
+    {
+        "Name": "HTTP Server Type and Version",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Traceroute Information",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Web Server No 404 Error Code Check",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL Certificate Information",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Nessus SYN scanner",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Nessus Scan Information",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL Version 2 and 3 Protocol Detection",
+        "Severity": "High",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL Cipher Suites Supported",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Service Detection",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "HyperText Transfer Protocol (HTTP) Information",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "TCP/IP Timestamps Supported",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Web Application Firewall Detection",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL Medium Strength Cipher Suites Supported (SWEET32)",
+        "Severity": "Medium",
+        "CVE": "CVE-2016-2183"
+    },
+    {
+        "Name": "Common Platform Enumeration (CPE)",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Additional DNS Hostnames",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "OS Identification Failed",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL Session Resume Supported",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "OpenSSL SSL_OP_NETSCAPE_REUSE_CIPHER_CHANGE_BUG Session Resume Ciphersuite Downgrade Issue",
+        "Severity": "Medium",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL / TLS Versions Supported",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL Resume With Different Cipher Issue",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL RC4 Cipher Suites Supported (Bar Mitzvah)",
+        "Severity": "Low",
+        "CVE": ""
+    },
+    {
+        "Name": "Patch Report",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL Cipher Block Chaining Cipher Suites Supported",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Microsoft Exchange Client Access Server Information Disclosure",
+        "Severity": "Medium",
+        "CVE": ""
+    },
+    {
+        "Name": "SSLv3 Padding Oracle On Downgraded Legacy Encryption Vulnerability (POODLE)",
+        "Severity": "Medium",
+        "CVE": ""
+    },
+    {
+        "Name": "HSTS Missing From HTTPS Server",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL Root Certification Authority Certificate Information",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL Certificate Signed Using Weak Hashing Algorithm (Known CA)",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "TLS Version 1.0 Protocol Detection",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "JQuery Detection",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "OS Identification",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "F5 BIG-IP Cookie Remote Information Disclosure",
+        "Severity": "Medium",
+        "CVE": ""
+    },
+    {
+        "Name": "Microsoft .NET Handlers Enumeration",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "HTTP Methods Allowed (per directory)",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Device Type",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL Certificate Expiry",
+        "Severity": "Medium",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL Certificate Cannot Be Trusted",
+        "Severity": "Medium",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL Resume With Different Cipher Issue",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL RC4 Cipher Suites Supported (Bar Mitzvah)",
+        "Severity": "Low",
+        "CVE": ""
+    },
+    {
+        "Name": "Microsoft Exchange Client Access Server Information Disclosure",
+        "Severity": "Medium",
+        "CVE": ""
+    },
+    {
+        "Name": "F5 BIG-IP Cookie Remote Information Disclosure",
+        "Severity": "Medium",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL Version 2 and 3 Protocol Detection",
+        "Severity": "High",
+        "CVE": ""
+    },
+    {
+        "Name": "OpenSSL SSL_OP_NETSCAPE_REUSE_CIPHER_CHANGE_BUG Session Resume Ciphersuite Downgrade Issue",
+        "Severity": "Medium",
+        "CVE": ""
+    },
+    {
+        "Name": "SSLv3 Padding Oracle On Downgraded Legacy Encryption Vulnerability (POODLE)",
+        "Severity": "Medium",
+        "CVE": ""
+    },
+    {
+        "Name": "Patch Report",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "HTTP Proxy Open Relay Detection",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Web Server Crafted Request Vendor/Version Information Disclosure",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "HTTP Proxy Open gopher:// Request Relaying",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL Perfect Forward Secrecy Cipher Suites Supported",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Host Fully Qualified Domain Name (FQDN) Resolution",
+        "Severity": "Informational",
+        "CVE": ""
+    }
+]
