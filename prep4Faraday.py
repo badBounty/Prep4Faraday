@@ -4,6 +4,12 @@ import sys
 
 from Helper.parser import FaradayHelper
 
+if len(sys.argv) < 2:
+	print('Please provide an output name!')
+	print('Example usage: py prep4Faraday.py output.xml')
+	sys.exit(0)
+
+
 faradayHelper = FaradayHelper()
 
 with open('Config/SeverityConfig.json') as json_file:
@@ -47,6 +53,8 @@ for data in severity_data:
     final_df = faradayHelper.modifySeverity(final_df, data['Name'], data['Severity'])
 
 outputName = sys.argv[1]
+
+final_df = final_df[final_df.Severity != 'Informational']
 
 if '.xml' in outputName:
 	faradayHelper.generateOutput(final_df, outputName)
