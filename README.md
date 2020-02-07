@@ -14,8 +14,9 @@ Supported services are (for now):
 
 ## Usage
 
-First head to `Config/InputConfig.json` and add al the files you wish to unify, something like the following.
-`
+First head to `Config/InputConfig.json` and add al the files you wish to unify, something like the following.  
+
+```
 [
     {
         "Filename": "acu_example.csv",
@@ -30,18 +31,18 @@ First head to `Config/InputConfig.json` and add al the files you wish to unify, 
         "Service": "Nmap"
     }
 ]
-`
+```
 
-Remember to put the files inside the `Input` folder (Names must match!)
+Remember to put the files inside the `Input` folder (Names must match!)  
 
-Then simply run the program with
+Then simply run the program with  
 
-Windows
-`py prep4Faraday.py <OUTPUT_FILENAME>`
+Windows  
+`py prep4Faraday.py <OUTPUT_FILENAME>`  
 
-Linux
-`python3 prep4Faraday.py <OUTPUT_FILENAME>`
+Linux  
+`python3 prep4Faraday.py <OUTPUT_FILENAME>`  
 
 ## Setup
 
-`pip install -r requirements.txt`
+`pip install -r requirements.txt`  
