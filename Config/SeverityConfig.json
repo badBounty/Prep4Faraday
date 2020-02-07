@@ -248,5 +248,215 @@
         "Name": "Host Fully Qualified Domain Name (FQDN) Resolution",
         "Severity": "Informational",
         "CVE": ""
+    },
+    {
+        "Name": "Strict Transport Security (STS) Detection",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Open Port Re-check",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Inconsistent Hostname and IP Address",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Non-compliant Strict Transport Security (STS)",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Web Server robots.txt Information Disclosure",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL Certificate 'commonName' Mismatch",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "TLS Next Protocols Supported",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "TLS ALPN Supported Protocol Enumeration",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "TLS NPN Supported Protocol Enumeration",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL Service Requests Client Certificate",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL/TLS Service Requires Client Certificate",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL Certificate Expiry - Future Expiry",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL Certificate Chain Contains Certificates Expiring Soon",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Web Site Cross-Domain Policy File Detection",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "TLS Version 1.1 Protocol Detection",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "POP Server Detection",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SMTP Server Detection",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "IMAP Service Banner Retrieval",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "IMAP Service STARTTLS Command Support",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "POP3 Service STLS Command Support",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SMTP Service STARTTLS Command Support",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "OpenSSL Detection",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Microsoft Exchange Server Detection (Uncredentialed)",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSH Server Type and Version Information",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSH Protocol Versions Supported",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSH Algorithms and Languages Supported",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "FTP Server Detection",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "FTP Service AUTH TLS Command Support",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Apache HTTP Server Version",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Unknown Service Detection: Banner Retrieval",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Wireless Access Point Detection",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL Certificate Chain Not Sorted",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "nginx HTTP Server Detection",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Service Detection (HELP Request)",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Web Site Client Access Policy File Detection",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "HTTP/2 Cleartext Detection",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "SSL Certificate Chain Contains Unnecessary Certificates",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Microsoft SharePoint Server Detection",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "DNS Server Detection",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "DNS Server hostname.bind Map Hostname Disclosure",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "DNS Server Version Detection",
+        "Severity": "Informational",
+        "CVE": ""
+    },
+    {
+        "Name": "Session Initiation Protocol Detection",
+        "Severity": "Informational",
+        "CVE": ""
     }
 ]
