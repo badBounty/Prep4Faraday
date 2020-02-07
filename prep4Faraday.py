@@ -59,7 +59,7 @@ for data in severity_data:
 
 outputName = sys.argv[1]
 
-final_df = final_df[final_df.Severity != 'Informational']
+#final_df = final_df[final_df.Severity != 'Informational']
 
 if '.xml' in outputName:
 	faradayHelper.generateOutput(final_df, outputName)
